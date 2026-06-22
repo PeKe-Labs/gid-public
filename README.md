@@ -1,4 +1,4 @@
-# GID — Glasses Interface Device
+# GID — Gestural Interface Device
 
 **Self-describing, addressable input for the glasses era.**
 
